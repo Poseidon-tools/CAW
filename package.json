@@ -1,0 +1,20 @@
+{
+  "name": "com.poseidon.commonassetswindow",
+  "version": "1.0.0",
+  "displayName": "Common Assets Window",
+  "description": "Handy editor add-on, caching most interacted objects per editor user.",
+  "unity": "2020.3",
+  "unityRelease": "19f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "assets",
+    "cache",
+    "asset history"
+  ],
+  "author": {
+    "name": "Poseidon",
+    "email": "",
+    "url": ""
+  }
+}
